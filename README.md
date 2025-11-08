@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="Walkthrough.gif" alt="Walkthrough" width='300'>
+
 
 
 

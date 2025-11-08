@@ -26,8 +26,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="Walkthrough_1.gif" alt="Walkthrough" width='300'>
+<img src="Walkthrough_1.gif" alt="Walkthrough 1" width='300'>
 
+<img src="Walkthrough_2.gif" alt="Walkthrough 2" width='300'>
 ## Notes
 
 Describe any challenges encountered while building the app.
